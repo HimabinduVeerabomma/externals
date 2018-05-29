@@ -1,2 +1,1 @@
-# externals
-new repository
+# external-stylesheet
